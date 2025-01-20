@@ -27,6 +27,8 @@ Its format is based on Keep a Changelog, and this project adheres to Semantic Ve
   - `Clear`
   - `Focus`
   - `Press`
+  - `PressSequentially`
+- Added `Text` and `Attribute` questions
 - Added the following questions:
   - `Text`
   - `Attribute`
