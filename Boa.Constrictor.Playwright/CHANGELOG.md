@@ -1,4 +1,4 @@
-﻿# Changelog
+# Changelog
 
 This file documents all notable changes to the Boa.Constrictor.Xunit project and its unit tests for each NuGet package release.
 
